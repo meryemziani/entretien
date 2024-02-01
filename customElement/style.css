@@ -1,0 +1,26 @@
+    body {
+      font-family: 'Arial', sans-serif;
+      margin: 20px;
+    }
+
+    label {
+      display: block;
+      margin-bottom: 10px;
+    }
+
+    input {
+      padding: 5px;
+      font-size: 14px;
+    }
+    #welcomeMessage  {
+        display: block;
+        margin-top: 10px;
+        padding: 10px;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+      }
+  
+      span {
+        font-weight: bold;
+        color: #3366cc;
+      }
